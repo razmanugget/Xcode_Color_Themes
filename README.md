@@ -1,4 +1,4 @@
-# XcodeColorThemes
+# Xcode_Color_Themes
 
 To Install manually
 Download using the GitHub .zip download option and unzip them.
