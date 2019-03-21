@@ -18,11 +18,16 @@ removed -> .ace-xcode .ace_marker-layer .ace_bracket {margin: -1px 0 0 -1px;bord
 
 .ace-xcode .ace_invisible {color: #343744} <done>
 .ace-xcode .ace_constant.ace_character,.ace-xcode .ace_constant.ace_other {color: #275A5E}
-.ace-xcode .ace_constant.ace_numeric {font-weight: bold;color: #59C29C} <done>
+.ace-xcode .ace_constant.ace_numeric {font-weight: 600;color: #59C29C} <done>
 
 .ace-xcode .ace_entity.ace_other.ace_attribute-name {color: #30DC23} <testing as green - ok not sure where>
 .ace-xcode .ace_support.ace_constant {color: #59C29C} <string green ok - css inline-block, solid, table-cell>
 .ace-xcode .ace_support.ace_function {color: #2B74CC} <done - could breakup more - subscript, print, (return), (func calls)>
+added -> .ace-xcode .ace_punctuation.ace_operator {color: #C1C1C1} < does nothing so far??)>
+added -> .ace-xcode .ace_paren {color: #C1C1C1} < done! ()>
+added -> .ace-xcode .ace_function.ace_buildin {color: #30DC23} <testing as green - ok not sure where>
+added -> .ace-xcode .ace_support {color: #30DC23} <testing as green - ok not sure where>
+added -> .ace-xcode .ace_definition,.ace-xcode .ace_type {color: #30DC23} <testing as green - ok not sure where>
 
 .ace-xcode .ace_fold {background-color: #565A6D;border-color: #7F7F7F} <done - folding icon>
 .ace-xcode .ace_entity.ace_name.ace_tag,.ace-xcode .ace_support.ace_class,.ace-xcode .ace_support.ace_type {color: #EE87C5} <fine pink in CSS -> attributes>
