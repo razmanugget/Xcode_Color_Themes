@@ -30,10 +30,12 @@
 	<string>0.266667 0.278431 0.352941 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.545098 0.913725 0.992157 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
 	<key>DVTFontSizeModifier</key>
 	<integer>-1</integer>
 	<key>DVTLineSpacing</key>
-	<real>1.1000000238418579</real>
+	<real>1.2000000476837158</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.188245 0.192381 0.226996 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -43,33 +45,33 @@
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.SFNSText-Italic - 12.0</string>
+	<string>.SFNS-RegularItalic - 12.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>0.877929 0.872979 0.878041 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.384314 0.447059 0.643137 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNSText - 12.0</string>
+	<string>.SFNS-Regular - 12.0</string>
 	<key>DVTMarkupTextNormalColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNSText - 12.0</string>
+	<string>.SFNS-Regular - 12.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 0.5</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNSText - 16.4</string>
+	<string>.SFNS-Regular - 17.2</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNSDisplay - 27.4</string>
+	<string>.SFNS-Regular - 30.2</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNSDisplay - 20.8</string>
+	<string>.SFNS-Regular - 22.4</string>
 	<key>DVTMarkupTextStrongColor</key>
 	<string>0.877929 0.872979 0.878041 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.SFNSText-Bold - 12.0</string>
+	<string>.SFNS-Bold - 12.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
 	<string>0.403922 0.372549 1 1</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
@@ -108,6 +110,10 @@
 		<string>0.498039 0.498039 0.498039 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.498039 0.498039 0.498039 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.254902 0.631373 0.752941 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.362946 0.846428 0.998966 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.99502 0.763557 0.335413 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -134,6 +140,10 @@
 		<string>0.168627 0.454902 0.8 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.606205 0.463343 0.806029 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.666667 0.694118 0.572549 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.665 0.052 0.569 1</string>
 		<key>xcode.syntax.number</key>
 		<string>0.279421 0.725816 0.539182 1</string>
 		<key>xcode.syntax.plain</key>
@@ -157,6 +167,10 @@
 		<string>SFMono-MediumItalic - 11.5</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>SFMono-MediumItalic - 11.5</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>SFMono-Medium - 13.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>SFMono-Medium - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>SFMono-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
@@ -183,6 +197,10 @@
 		<string>SFMono-Regular - 13.0</string>
 		<key>xcode.syntax.keyword</key>
 		<string>SFMono-Regular - 13.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>SFMono-Medium - 13.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>SFMono-Medium - 13.0</string>
 		<key>xcode.syntax.number</key>
 		<string>SFMono-Semibold - 13.0</string>
 		<key>xcode.syntax.plain</key>
